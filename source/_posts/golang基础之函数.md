@@ -348,7 +348,7 @@ end
 
 `golang`中函数的`return`语句在底层并不是原子操作，它分为给返回值赋值和`ret`指令两步。而`defer`语句执行的时机就在返回值赋值操作后，`ret`指令执行前，具体如下图所示:
 
-![](golang基础之函数/defer.png)
+![](/images/defer.png)
 
 #### <font color=red>defer经典案例</font>
 
