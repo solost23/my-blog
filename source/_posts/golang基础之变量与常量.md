@@ -1,5 +1,8 @@
 ---
 title: golang基础之变量与常量
+date: 2021-12-09 11:00
+tags:
+    - golang
 ---
 
 

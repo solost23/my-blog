@@ -1,5 +1,8 @@
 ---
 title: golang基础之切片
+date: 2021-12-11 11:00
+tags:
+    - golang
 ---
 
 本文主要介绍`golang`中切片以及它的基本使用。

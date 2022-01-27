@@ -1,5 +1,8 @@
 ---
 title: golang基础之文件操作
+date: 2021-12-21 11:00
+tags:
+    - golang
 ---
 
 ### <center>打开和关闭文件</center>

@@ -1,5 +1,8 @@
 ---
 title: golang标准库之flag
+date: 2021-12-21 11:00
+tags:
+    - golang
 ---
 
 `golang`内置的`flag`包实现了命令行参数的解析，`flag`包使得开发命令行工具更加简单。

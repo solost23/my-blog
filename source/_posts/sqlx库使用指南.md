@@ -1,5 +1,8 @@
 ---
 title: sqlx库使用指南
+date: 2021-12-21 11:00
+tags:
+    - golang
 ---
 
 在项目中我们通常可能会使用 database/sql 连接 MySQL 数据库。本文借助使用 sqlx 实现批量插入数据的例子，介绍了 sqlx 中可能被忽视的 sqlx.In 和 DB.NameExec 方法。

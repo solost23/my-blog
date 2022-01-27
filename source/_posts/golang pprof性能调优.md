@@ -1,5 +1,8 @@
 ---
 title: golang pprof性能调优 
+date: 2021-1-22 11:00
+tags:
+    - golang
 ---
 
 在计算机性能调试领域里，profiling 是指对应用程序的画像，画像就是应用程序使用 CPU 和内存的情况。Go 语言是一个对性能特别看重的语言，因此语言中自带了 profiling 的库，这篇文章就要讲解怎么在 golang 中做 profiling。

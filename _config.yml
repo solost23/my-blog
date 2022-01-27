@@ -40,12 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
-# 自己加
-marked:
-  prependRoot: true
-  postAsset: true
-  
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -102,11 +97,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: mashiro
+theme: vexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+  type: git 
   repo: git@github.com:Solost23/Solost23.github.io.git
   branch: master

@@ -1,5 +1,8 @@
 ---
 title: golang标准库之time
+date: 2021-12-20 11:00
+tags:
+    - golang
 ---
 
 本文主要介绍`golang`内置的`time`包的基本用法。

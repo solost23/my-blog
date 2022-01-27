@@ -1,5 +1,8 @@
 ---
 title: GORM CRUD指南 
+date: 2021-12-22 11:00
+tags:
+    - golang
 ---
 
 本文中的 db 变量为 * gorm.DB 对象，例如：

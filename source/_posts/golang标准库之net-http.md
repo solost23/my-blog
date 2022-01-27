@@ -1,5 +1,8 @@
 ---
 title: golang标准库之net/http
+date: 2021-12-21 11:00
+tags:
+    - golang
 ---
 
 `golang`内置的`net/http`包提供了`HTTP`客户端和服务端的实现。

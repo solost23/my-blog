@@ -1,5 +1,9 @@
 ---
 title: gin框架路由拆分与注册
+date: 2021-12-21 11:00
+tags:
+    - golang
+	- gin
 ---
 
 ### <center>基本的路由注册</center>

@@ -1,5 +1,7 @@
 ---
 title: Vim使用手册
+tags:
+    - Linux
 ---
 
 ### <center>Vim介绍</center>

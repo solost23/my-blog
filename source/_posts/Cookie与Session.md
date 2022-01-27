@@ -1,5 +1,8 @@
 ---
 title: Cookie与Session
+date: 2021-12-21 11:00
+tags:
+    - golang
 ---
 
 Cookie 和 Session 是 Web 开发绕不开的一个环节，本文介绍了 Cookie 和 Session 的原理以及在 Go 语言中如何操作 Cookie。

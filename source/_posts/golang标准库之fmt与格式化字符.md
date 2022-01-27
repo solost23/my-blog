@@ -1,5 +1,8 @@
 ---
 title: golang标准库之fmt与格式化字符
+date: 2021-12-20 11:00
+tags:
+    - golang
 ---
 
 `fmt`包实现了类似`c`语言`printf`与·`scanf`的格式化`I/O`。主要分为向外输出内容和获取输入内容两大部分。

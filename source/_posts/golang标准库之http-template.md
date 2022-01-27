@@ -1,5 +1,8 @@
 ---
 title: golang标准库之http/template
+date: 2021-12-21 11:00
+tags:
+    - golang
 ---
 
 html/template 包实现了数据驱动的模板，用于生成可防止代码注入的安全的 HTML 内容。它提供了和 text/template 包相同的接口，Go 语言中输出 HTML 的场景都应使用 html/template 这个包。

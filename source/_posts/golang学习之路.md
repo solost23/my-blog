@@ -1,5 +1,8 @@
 ---
 title: golang学习之路
+banner: /images/golang-banner.jpg
+tags:
+    - golang
 ---
 
 ### <center>golang基础</center>
@@ -80,7 +83,7 @@ title: golang学习之路
 
 [部署golang项目的N种方法](https://solost23.github.io/2021/12/22/%E9%83%A8%E7%BD%B2golang%E9%A1%B9%E7%9B%AE%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95/)
 
-[使用Docker部署Go Web](https://solost23.github.io/2021/12/22/%E9%83%A8%E7%BD%B2golang%E9%A1%B9%E7%9B%AE%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95/)
+[使用Docker部署Go Web](https://solost23.github.io/2021/12/22/使用docker部署go%20web应用/)
 
 ### <center>golang常用组件和技巧</center>
 

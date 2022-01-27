@@ -1,5 +1,8 @@
 ---
 title: golang基础之map
+date: 2021-12-11 11:00
+tags:
+    - golang
 ---
 
 `golang`中提供的映射关系容器为`map`,其内部使用`hash`实现。`map`是一种无序的基于`k-v`存储的数据结构，`golang`中的`map`是引用类型，必须初始化才能使用。

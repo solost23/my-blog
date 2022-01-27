@@ -1,5 +1,9 @@
 ---
 title: 部署golang项目的N种方法
+date: 2021-12-22 11:00
+tags:
+    - golang
+    - docker
 ---
 
 本文以部署`Go Web`为例，介绍了在`CentOs7`服务器上部署`Golang`项目的若干方法

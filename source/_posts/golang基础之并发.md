@@ -1,5 +1,8 @@
 ---
-title: golang基础之并发
+title: golang基础之并发编程
+date: 2021-12-13 11:00
+tags:
+    - golang
 ---
 
 并发是编程里面一个非常重要的概念，`golang`在语言层面天生支持并发，这也是`golang`流行的一个非常重要的原因。

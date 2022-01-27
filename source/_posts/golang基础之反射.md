@@ -1,5 +1,8 @@
 ---
 title: golang基础之反射
+date: 2021-12-12 11:00
+tags:
+    - golang
 ---
 
 ### <center>变量的内在机制</center>

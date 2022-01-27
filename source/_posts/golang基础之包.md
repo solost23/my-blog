@@ -1,5 +1,8 @@
 ---
 title: golang基础之包
+date: 2021-12-12 11:00
+tags:
+    - golang
 ---
 
 在工程化的`golang`开发项目中，`golang`语言的源码复用是建立在`package`的基础上的。

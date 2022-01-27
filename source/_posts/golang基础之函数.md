@@ -1,5 +1,8 @@
 ---
 title: golang基础之函数
+date: 2021-12-12 11:00
+tags:
+    - golang
 ---
 
 - 函数是组织好的、可重复使用的、用于执行<font color=red>最基本任务</font>的代码块。

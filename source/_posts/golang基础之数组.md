@@ -1,5 +1,8 @@
 ---
 title: golang基础之数组
+date: 2021-12-11 11:00
+tags:
+    - golang
 ---
 
 本文主要介绍`golang`中`Array`以及它的基本使用。
