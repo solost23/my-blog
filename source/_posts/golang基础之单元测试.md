@@ -321,7 +321,7 @@ ok      calc/day09/split        0.035s
 
 上面的命令会将覆盖率相关的信息输出到当前文件夹下面的 cover.out 文件中，然后我们执行 go tool cover -html=cover.out，使用 cover 工具来处理生成的记录信息，该命令会打开本地的浏览器窗口生成一个 HTML 报告。
 
-![](images/屏幕截图-2021-03-20-175152.png)
+![](images/2021-03-20-175152.png)
 
 上图中每个用绿色标记的语句块表示被覆盖了，而红色的表示没有被覆盖。
 
@@ -710,4 +710,4 @@ ok      calc/day09/split        0.157s
 
 - 示例函数提供了可以直接运行的示例代码，可以直接在 golang.org 的 godoc 文档服务器上使用 Goplaygroune 运行示例代码。下图为 strings.ToUpper 函数在 Playground 的示例
 
-![](images/example-1024x543.png)
+![](images/example.png)

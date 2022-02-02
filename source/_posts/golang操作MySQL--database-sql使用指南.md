@@ -3,7 +3,6 @@ title: golang操作MySQL--database/sql使用指南
 date: 2021-12-21 11:00
 tags:
     - golang
-	- MySQL
 ---
 
 ### <center>golang操作MySQL</center>

@@ -53,23 +53,23 @@ tags:
 
 [golang标准库之strconv](https://solost23.github.io/2021/12/21/golang%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bstrconv/)
 
-[golang标准库之net/http](https://solost23.github.io/2021/12/21/golang%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bnet:http/)
+[golang标准库之net/http](https://solost23.github.io/2021/12/21/golang%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bnet-http/)
 
 [golang标准库之context](https://solost23.github.io/2021/12/21/golang%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bcontext/)
 
 ### <center>golang数据库相关</center>
 
-[golnag操作Mysql--database/sql使用指南](https://solost23.github.io/2021/12/21/golang%E6%93%8D%E4%BD%9CMySQL--database:sql%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
+[golnag操作Mysql--database/sql使用指南](https://solost23.github.io/2021/12/21/golang%E6%93%8D%E4%BD%9CMySQL--database-sql%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 
 [sqlx库指南](https://solost23.github.io/2021/12/21/sqlx%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 
-[golang操作Redis](https://solost23.github.io/2021/12/21/golang%E6%93%8D%E4%BD%9CRedis/)
+[golang操作Redis](https://solost23.github.io/2021/12/12/golang%E6%93%8D%E4%BD%9CRedis/)
 
 [golang操作MongoDB](https://solost23.github.io/2021/12/16/golang%E6%93%8D%E4%BD%9CMongoDB/)
 
 ### <center>golang之web开发</center>
 
-[golang标准库之http/template](https://solost23.github.io/2021/12/21/golang%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bhttp:template/)
+[golang标准库之http/template](https://solost23.github.io/2021/12/21/golang%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bhttp-template/)
 
 [gin框架极速指南](https://solost23.github.io/2021/12/21/Gin%E6%A1%86%E6%9E%B6%E6%9E%81%E9%80%9F%E6%8C%87%E5%8D%97/)
 
@@ -87,7 +87,7 @@ tags:
 
 ### <center>golang常用组件和技巧</center>
 
-[golang之pprof性能调优](https://solost23.github.io/2021/12/22/golang%20pprof%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/)
+[golang之pprof性能调优](https://solost23.github.io/2021/01/22/golang%20pprof%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/)
 
 [gRPC初识](https://solost23.github.io/2021/12/22/gRPC%E5%88%9D%E8%AF%86/)
 
